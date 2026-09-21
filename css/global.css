@@ -54,7 +54,7 @@ header .flex {
 }
 
 .logo img {
-    height: 35px;
+    height: 45px;
     width: auto;
 }
 
@@ -374,9 +374,9 @@ footer {
 }
 
 .footer-brand img {
-    height: 25px;
+    height: 35px;
     width: auto;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .footer-brand span {
