@@ -1,0 +1,11 @@
+/* Cores da Marca e Imagem de Fundo - Sobre Pisos */
+:root {
+    /* Cores Principais — inspiradas no branding da Sobre Pisos */
+    --primary: #C4922A;      /* Dourado/Bronze da marca */
+    --secondary: #1A1A1A;    /* Preto profundo */
+    --accent: #25D366;       /* WhatsApp green */
+    --white: #ffffff;
+
+    /* Imagem de Fundo da Seção Hero */
+    --bg-hero: url('../assets/fundo.jpg');
+}
